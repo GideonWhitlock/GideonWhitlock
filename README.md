@@ -12,6 +12,14 @@ I create and maintain practical, player-focused add-ons for **World of Warcraft:
 - [Campfire Stories: Forever](https://www.curseforge.com/wow/addons/campfire-stories) — human-written campfire horror and personal story libraries.
 - [Campfire Tooltips: Forever](https://www.curseforge.com/wow/addons/campfire-tooltips) — clear benefits and profession details on camp-object tooltips.
 - [Night Watch Torch Helper: Forever](https://www.curseforge.com/wow/addons/night-watch-torch-helper-forever) — a one-click torch reminder for dark nights and bad weather.
+- [Combo Points: Forever](https://www.curseforge.com/wow/addons/combo-points-forever-addon) — clear combo-point pips above hostile nameplates.
+- [Misspelled: Forever](https://www.curseforge.com/wow/addons/misspelled-forever) — spelling help designed for the in-game chat experience.
+- [Totem Tooltip: Forever](https://www.curseforge.com/wow/addons/totem-tooltip-forever) — clearer details when inspecting Shaman totems.
+- [Thanks for Buffing: Forever](https://www.curseforge.com/wow/addons/thanks-for-buffing-forever) — private, considerate thanks for helpful player buffs.
+
+## In CurseForge review
+
+- [Graphics Unlocked: Forever](https://github.com/GideonWhitlock/wow-forever-addons/tree/main/addons/graphics-unlocked-forever) — 22 expanded graphics controls, five presets and safe restoration of original settings. Version 1.0.0 is awaiting CurseForge moderator approval.
 
 ## Feedback
 
