@@ -16,10 +16,11 @@ I create and maintain practical, player-focused add-ons for **World of Warcraft:
 - [Misspelled: Forever](https://www.curseforge.com/wow/addons/misspelled-forever) — spelling help designed for the in-game chat experience.
 - [Totem Tooltip: Forever](https://www.curseforge.com/wow/addons/totem-tooltip-forever) — clearer details when inspecting Shaman totems.
 - [Thanks for Buffing: Forever](https://www.curseforge.com/wow/addons/thanks-for-buffing-forever) — private, considerate thanks for helpful player buffs.
-
-## In CurseForge review
-
-- [Graphics Unlocked: Forever](https://github.com/GideonWhitlock/wow-forever-addons/tree/main/addons/graphics-unlocked-forever) — 22 expanded graphics controls, five presets and safe restoration of original settings. Version 1.0.0 is awaiting CurseForge moderator approval.
+- [Graphics Unlocked: Forever](https://www.curseforge.com/wow/addons/graphics-unlocked-forever) — 22 expanded graphics controls, five presets and safe restoration of original settings.
+- [Gentle Reminder: Forever](https://www.curseforge.com/wow/addons/gentle-reminder-forever) — private break and bedtime reminders that pause during dungeons, raids and PvP.
+- [Addon Health Manager: Forever](https://www.curseforge.com/wow/addons/addon-health-manager-forever) — evidence-led add-on diagnostics and privacy-clean support reports.
+- [Objective Hider for RestedXP: Forever](https://www.curseforge.com/wow/addons/objective-hider-for-restedxp-forever) — keeps Blizzard's objective tracker out of RestedXP's space.
+- [Choose a Main: Forever](https://www.curseforge.com/wow/addons/choose-a-main-forever) — a private, explainable guide to a player's best gameplay match and long-term main.
 
 ## Feedback
 
