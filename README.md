@@ -2,7 +2,7 @@
 
 I create and maintain practical, player-focused add-ons for **World of Warcraft: Forever**. I keep them supported through regular compatibility checks, public changelogs, and feedback from players.
 
-[Add-on website](https://gideonwhitlock.github.io/wow-forever-addons/) · [CurseForge](https://www.curseforge.com/members/gideonwhitlock/projects) · [YouTube](https://www.youtube.com/@GideonWhitlockWoW) · [Source and issues](https://github.com/GideonWhitlock/wow-forever-addons) · [Optional support](https://ko-fi.com/gideonwhitlock)
+[Add-on website](https://gideonwhitlock.github.io/wow-forever-addons/) · [CurseForge](https://www.curseforge.com/members/gideonwhitlock/projects) · [YouTube](https://www.youtube.com/@GideonWhitlockWoW) · [Source and issues](https://github.com/GideonWhitlock/wow-forever-addons) · [GitHub Sponsors](https://github.com/sponsors/GideonWhitlock) · [Ko-fi](https://ko-fi.com/gideonwhitlock)
 
 ## Published add-ons
 
